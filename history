@@ -1,0 +1,16 @@
+macOS is significantly different from previous, "classic" versions of Mac OS. The system is based on the POSIX-compliant Darwin operating system, which is free software. Its core is XNU, which uses the Mach microkernel and standard BSD services. All Unix features on macOS are available through the console.
+
+On top of this framework, Apple has developed many proprietary components such as Cocoa and Carbon, Quartz.
+
+macOS is highly resilient, making it unlike its predecessor, Mac OS 9. [source unspecified 1866 days]
+
+MacOS (like any UNIX system) uses preemptive multitasking and memory protection, allowing you to run multiple, isolated processes, each of which cannot interrupt or modify all others. The macOS architecture was influenced by OpenStep, which was conceived as a portable operating system (for example, NeXTSTEP was ported from the original 68k platform of the NeXT computer prior to Apple's acquisition of NeXTSTEP). Likewise, OpenStep has been ported to PowerPC as part of the Rhapsody project.
+
+Most notably, the graphical interface has changed, which in macOS was called Aqua. The use of rounded corners, translucent elements and light stripes also influenced the appearance of the first iMac models. After the first version of Mac OS X was released, other developers also started using the Aqua interface. To prevent its design from being used on other platforms, Apple used the services of lawyers [10].
+
+The basics of macOS are:
+
+Open source subsystem - Darwin (Mach kernel and BSD toolkit).
+Core Foundation programming environment (Carbon API, Cocoa API and Java API).
+Aqua graphics environment (QuickTime, Quartz Extreme and OpenGL).
+Core Image, Core Animation, CoreAudio and CoreData technologies.
